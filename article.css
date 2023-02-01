@@ -1,0 +1,38 @@
+.container-a {
+  background-color: #0c1016;
+  max-width: 1429px;
+  height: 1309px;
+  margin: 0 auto;
+}
+.banner {
+  height: 303px;
+  overflow: hidden;
+  margin: 1px auto;
+  position: relative;
+}
+img {
+  margin-top: -103px;
+}
+h1 {
+  color: white;
+  font-size: 35px;
+  padding: 30px 65px;
+  text-align: center;
+}
+h2 {
+  margin: -33px 65px;
+  font-size: 18px;
+  color: #353b42;
+  font-style: italic;
+  text-align: center;
+}
+.subhead {
+  display: flex;
+  color: white;
+  right: 0;
+  top: 0;
+  font-size: 15px;
+  justify-content: center;
+  text-align: justify;
+  margin-top: 50px;
+}

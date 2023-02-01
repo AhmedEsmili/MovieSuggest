@@ -1,0 +1,44 @@
+.container-b {
+  background-color: #0c1016;
+  max-width: 1429px;
+  height: 951px;
+  margin: 0 auto;
+}
+.pattern-zigzag-md {
+  color: #131a22;
+  position: absolute;
+  z-index: -1;
+  height: 1041px;
+  width: 100%;
+}
+.about-title {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  margin: 15px;
+  margin-top: 77px;
+}
+img {
+  width: 100%;
+}
+
+.about-paragraph {
+  color: #696a6a;
+  text-align: center;
+}
+
+.movies-collection {
+  height: 480px;
+  width: 1079px;
+  overflow: hidden;
+  margin: 0 auto;
+  top: 30px;
+  position: relative;
+}
+
+.footer-bar2 {
+  height: 90px;
+  background-color: #141b25;
+  width: 1429px;
+  margin: 0 auto;
+}
